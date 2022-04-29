@@ -9,4 +9,9 @@ Abhängigkeiten
 - python 3.x.x
 - Pandas 
 
+# Verwendung 
+
+- git clone https://github.com/HammamWahab/das_pret-retum.git
+- python3 das_pret-retum/pretaeretum/pretaeretum.py
+
 # Viel spaß!
