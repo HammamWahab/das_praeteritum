@@ -11,7 +11,7 @@ Abhängigkeiten
 
 # Verwendung 
 
-- git clone https://github.com/HammamWahab/das_pret-retum.git
+- git clone https://github.com/HammamWahab/das_praeteritum.git
 - python3 das_pret-retum/Praeteritum/Praeteritum.py
 
 # Viel spaß!
